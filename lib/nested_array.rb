@@ -34,7 +34,11 @@ def array_literal_matrix
       "Kate Gompert",
       "Bruce Green"],
     :tennis_academy = [
-      
+      "Hal Incandenza",
+      "Lyle",
+      "Gerhard Schtitt",
+      "Mario Incandenza",
+      "Michael Pemulis"
       ]
     ]
 end
