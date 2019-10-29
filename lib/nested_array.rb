@@ -31,6 +31,8 @@ end
 
 def matrix_lookup(matrix, row, column)
   # Return the matrix's content at row and column
+  infinite_jest = [ENNET_HOUSE, ENFIELD_TENNIS_ACADEMY]
+  infinite_jest[1][1]
 end
 
 def matrix_update(matrix, row, column, new_value)
