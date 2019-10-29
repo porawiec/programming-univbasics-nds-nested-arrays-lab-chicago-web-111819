@@ -28,7 +28,14 @@ def array_literal_matrix
   # alphabetically by the first character.
   infinite_jest = [
     :house = [
-      ""]
+      "Don Gately",
+      "Joelle van Dyne",
+      "Pat M.",
+      "Kate Gompert",
+      "Bruce Green"],
+    :tennis_academy = [
+      
+      ]
     ]
 end
 
