@@ -27,13 +27,13 @@ def array_literal_matrix
   # side the ENNET_HOUSE and ENFIELD_TENNIS_ACADEMY Arrays but sorts
   # alphabetically by the first character.
   infinite_jest = [
-    :house => [
+    [
       "Don Gately",
       "Joelle van Dyne",
       "Pat M.",
       "Kate Gompert",
       "Bruce Green"],
-    :tennis_academy => [
+    [
       "Hal Incandenza",
       "Lyle",
       "Gerhard Schtitt",
